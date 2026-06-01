@@ -30,3 +30,8 @@ Through this project, I practiced:
 * Local Storage Management
 * JavaScript Date & Time APIs
 * Responsive UI Design
+
+  AUTHOR
+  SYED NOOR UL ABSAR
+
+  
