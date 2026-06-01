@@ -31,6 +31,10 @@ Through this project, I practiced:
 * JavaScript Date & Time APIs
 * Responsive UI Design
 
+📸 Preview
+
+![Random Password Generator Preview](Screenshot 2026-06-01 233751.png)
+
   AUTHOR
   SYED NOOR UL ABSAR
 
