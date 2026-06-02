@@ -33,7 +33,7 @@ Through this project, I practiced:
 
 📸 Preview
 
-![Random Password Generator Preview](Screenshot 2026-06-01 233751.png)
+![Random Password Generator Preview](preveiw.png)
 
   AUTHOR
   SYED NOOR UL ABSAR
