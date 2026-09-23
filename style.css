@@ -169,3 +169,46 @@ body {
 .purpleIndigo{
   background-color:#6d28d9;
 }
+
+@media (max-width: 768px) {
+  .container {
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+  }
+  .header h1 {
+    font-size: 36px;
+  }
+  .header img {
+    width: 50px;
+  }
+  .note-wrapper {
+    padding: 20px;
+    padding-bottom: 50px;
+  }
+  .colors {
+    top: 14px;
+    right: 18px;
+  }
+  .note-wrapper p {
+    padding-top: 25px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: 94%;
+    padding-top: 30px;
+  }
+  .header h1 {
+    font-size: 30px;
+  }
+  #createbtn {
+    width: 100%;
+    justify-content: center;
+    padding: 13px 18px;
+    margin-top: 20px;
+  }
+}
